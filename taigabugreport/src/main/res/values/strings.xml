@@ -1,0 +1,15 @@
+<resources>
+    <string name="taigabugreport_toast.nothing_send">Nothing to send</string>
+    <string name="taigabugreport_toast.thank_for_report">Thank you for report</string>
+    <string name="taigabugreport_toast.server_error">Error. Check your internet connection</string>
+    <string name="taigabugreport_error.empty_field">Field can not be empty</string>
+    <string name="taigabugreport_menu.botreport_bug">Report bug</string>
+    <string name="taigabugreport_text.report">Report:</string>
+    <string name="taigabugreport.text_description">Description:</string>
+    <string name="taigabugreport.text_additional_parameters">Additional params:</string>
+    <string name="taigabugreport_text_api">API:</string>
+    <string name="taigabugreport_text_model">Model:</string>
+    <string name="taigabugreport_text_manufactured">Manufactured:</string>
+    <string name="taigabugreport_text_version">Version:</string>
+    <string name="taigabugreport_text_info">Info</string>
+</resources>

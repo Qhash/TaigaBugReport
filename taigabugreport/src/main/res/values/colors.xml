@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="taigbugreport_white">#fff</color>
+    <color name="taigbugreport_black">#000</color>
+
+    <color name="taigabugreport_button">#fccb5b</color>
+    <color name="taigabugreport_button_pressed">#d7ad4d</color>
+    <color name="taigabugreport_button_background">@color/taigabugreport_button</color>
+    <color name="taigabugreport_button_text_color">@color/taigbugreport_white</color>
+    <color name="taigabugreport_button_background_pressed">@color/taigabugreport_button_pressed</color>
+
+    <color name="taigabugreport_add_drawable_color">@color/colorPrimary</color>
+</resources>
